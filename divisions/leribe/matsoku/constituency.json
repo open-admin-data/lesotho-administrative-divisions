@@ -1,0 +1,45 @@
+{
+  "id": "LSC01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Matsoku",
+    "en": "Matsoku",
+    "slug": "matsoku"
+  },
+  "code": {
+    "id": "LSC01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.136",
+    "lon": "28.536"
+  },
+  "metadata": {},
+  "source": {}
+}

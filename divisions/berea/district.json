@@ -1,0 +1,29 @@
+{
+  "id": "LSD",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Berea",
+    "en": "Berea",
+    "slug": "berea"
+  },
+  "code": {
+    "id": "LSD",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.171",
+    "lon": "27.903"
+  },
+  "metadata": {},
+  "source": {}
+}

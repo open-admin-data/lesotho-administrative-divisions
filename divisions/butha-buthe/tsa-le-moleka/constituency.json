@@ -1,0 +1,45 @@
+{
+  "id": "LSB04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tsa-le-Moleka",
+    "en": "Tsa-le-Moleka",
+    "slug": "tsa-le-moleka"
+  },
+  "code": {
+    "id": "LSB04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSB",
+    "level": 1,
+    "name": {
+      "local": "Butha-Buthe",
+      "en": "Butha-Buthe",
+      "slug": "butha-buthe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSB",
+      "level": 1,
+      "name": {
+        "local": "Butha-Buthe",
+        "en": "Butha-Buthe",
+        "slug": "butha-buthe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.789",
+    "lon": "28.369"
+  },
+  "metadata": {},
+  "source": {}
+}

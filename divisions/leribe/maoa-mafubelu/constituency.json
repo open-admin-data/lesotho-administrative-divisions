@@ -1,0 +1,45 @@
+{
+  "id": "LSC04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "'Maoa-Mafubelu",
+    "en": "'Maoa-Mafubelu",
+    "slug": "maoa-mafubelu"
+  },
+  "code": {
+    "id": "LSC04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.958",
+    "lon": "28.219"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "LSJ",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mokhotlong",
+    "en": "Mokhotlong",
+    "slug": "mokhotlong"
+  },
+  "code": {
+    "id": "LSJ",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.156",
+    "lon": "29.006"
+  },
+  "metadata": {},
+  "source": {}
+}

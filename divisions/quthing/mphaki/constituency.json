@@ -1,0 +1,45 @@
+{
+  "id": "LSG05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mphaki",
+    "en": "Mphaki",
+    "slug": "mphaki"
+  },
+  "code": {
+    "id": "LSG05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSG",
+    "level": 1,
+    "name": {
+      "local": "Quthing",
+      "en": "Quthing",
+      "slug": "quthing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.161",
+    "lon": "28.206"
+  },
+  "metadata": {},
+  "source": {}
+}

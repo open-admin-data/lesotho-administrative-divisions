@@ -1,0 +1,34 @@
+# Mokhotlong — Lesotho Administrative Divisions
+
+> 5 constituencys
+> Code: LSJ
+> Coordinates: -29.156, 29.006
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Menoaneng
+
+Code: LSJ04, Coordinates: -29.433, 29.039
+
+
+### Mokhotlong
+
+Code: LSJ05, Coordinates: -29.31, 29.053
+
+
+### Mphokojoana
+
+Code: LSJ02, Coordinates: -29.041, 29.097
+
+
+### Sanqebethu
+
+Code: LSJ03, Coordinates: -29.287, 29.267
+
+
+### Seate
+
+Code: LSJ01, Coordinates: -29.06, 28.771
+
+

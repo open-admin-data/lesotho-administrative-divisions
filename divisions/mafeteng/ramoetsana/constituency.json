@@ -1,0 +1,45 @@
+{
+  "id": "LSE03",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ramoetsana",
+    "en": "Ramoetsana",
+    "slug": "ramoetsana"
+  },
+  "code": {
+    "id": "LSE03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.836",
+    "lon": "27.528"
+  },
+  "metadata": {},
+  "source": {}
+}

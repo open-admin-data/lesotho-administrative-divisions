@@ -1,0 +1,45 @@
+{
+  "id": "LSK04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Bokong",
+    "en": "Bokong",
+    "slug": "bokong"
+  },
+  "code": {
+    "id": "LSK04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSK",
+    "level": 1,
+    "name": {
+      "local": "Thaba-Tseka",
+      "en": "Thaba-Tseka",
+      "slug": "thaba-tseka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.377",
+    "lon": "28.633"
+  },
+  "metadata": {},
+  "source": {}
+}

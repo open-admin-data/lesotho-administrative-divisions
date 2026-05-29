@@ -1,0 +1,45 @@
+{
+  "id": "LSK01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tenesolo",
+    "en": "Tenesolo",
+    "slug": "tenesolo"
+  },
+  "code": {
+    "id": "LSK01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSK",
+    "level": 1,
+    "name": {
+      "local": "Thaba-Tseka",
+      "en": "Thaba-Tseka",
+      "slug": "thaba-tseka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.389",
+    "lon": "28.284"
+  },
+  "metadata": {},
+  "source": {}
+}

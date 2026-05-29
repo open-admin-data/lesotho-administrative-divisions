@@ -1,0 +1,452 @@
+[
+  {
+    "id": "LSD08",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kanana",
+      "en": "Kanana",
+      "slug": "kanana"
+    },
+    "code": {
+      "id": "LSD08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.257",
+      "lon": "27.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kueneng",
+      "en": "Kueneng",
+      "slug": "kueneng"
+    },
+    "code": {
+      "id": "LSD03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.014",
+      "lon": "28.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Makeoana",
+      "en": "Makeoana",
+      "slug": "makeoana"
+    },
+    "code": {
+      "id": "LSD01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.223",
+      "lon": "28.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mapoteng",
+      "en": "Mapoteng",
+      "slug": "mapoteng"
+    },
+    "code": {
+      "id": "LSD02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.126",
+      "lon": "28.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD09",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Maseru (Berea Distict)",
+      "en": "Maseru (Berea Distict)",
+      "slug": "maseru-berea-distict"
+    },
+    "code": {
+      "id": "LSD09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.28",
+      "lon": "27.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Motanasela",
+      "en": "Motanasela",
+      "slug": "motanasela"
+    },
+    "code": {
+      "id": "LSD06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.252",
+      "lon": "27.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Phuthiatsana",
+      "en": "Phuthiatsana",
+      "slug": "phuthiatsana"
+    },
+    "code": {
+      "id": "LSD05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.128",
+      "lon": "27.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD07",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Senekane",
+      "en": "Senekane",
+      "slug": "senekane"
+    },
+    "code": {
+      "id": "LSD07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.225",
+      "lon": "27.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD10",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tayateyaneng",
+      "en": "Tayateyaneng",
+      "slug": "tayateyaneng"
+    },
+    "code": {
+      "id": "LSD10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.144",
+      "lon": "27.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSD04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tebe-Tebe",
+      "en": "Tebe-Tebe",
+      "slug": "tebe-tebe"
+    },
+    "code": {
+      "id": "LSD04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSD",
+        "level": 1,
+        "name": {
+          "local": "Berea",
+          "en": "Berea",
+          "slug": "berea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.222",
+      "lon": "27.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

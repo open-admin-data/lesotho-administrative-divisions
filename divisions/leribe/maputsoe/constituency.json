@@ -1,0 +1,45 @@
+{
+  "id": "LSC12",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Maputsoe",
+    "en": "Maputsoe",
+    "slug": "maputsoe"
+  },
+  "code": {
+    "id": "LSC12",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.897",
+    "lon": "27.93"
+  },
+  "metadata": {},
+  "source": {}
+}

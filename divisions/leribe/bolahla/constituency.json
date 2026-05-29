@@ -1,0 +1,45 @@
+{
+  "id": "LSC02",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Bolahla",
+    "en": "Bolahla",
+    "slug": "bolahla"
+  },
+  "code": {
+    "id": "LSC02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.044",
+    "lon": "28.308"
+  },
+  "metadata": {},
+  "source": {}
+}

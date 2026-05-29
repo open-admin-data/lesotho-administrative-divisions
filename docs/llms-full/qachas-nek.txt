@@ -1,0 +1,29 @@
+# Qacha&#39;s Nek — Lesotho Administrative Divisions
+
+> 4 constituencys
+> Code: LSH
+> Coordinates: -29.94, 28.698
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Ntsupe
+
+Code: LSH02, Coordinates: -29.92, 28.689
+
+
+### Qacha&#39;s Nek
+
+Code: LSH04, Coordinates: -30.097, 28.68
+
+
+### Qanya
+
+Code: LSH01, Coordinates: -30.083, 28.414
+
+
+### Tsoelikana
+
+Code: LSH03, Coordinates: -29.907, 28.89
+
+

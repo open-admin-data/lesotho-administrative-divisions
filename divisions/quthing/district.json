@@ -1,0 +1,29 @@
+{
+  "id": "LSG",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Quthing",
+    "en": "Quthing",
+    "slug": "quthing"
+  },
+  "code": {
+    "id": "LSG",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.349",
+    "lon": "27.965"
+  },
+  "metadata": {},
+  "source": {}
+}

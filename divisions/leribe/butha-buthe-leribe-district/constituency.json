@@ -1,0 +1,45 @@
+{
+  "id": "LSC14",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Butha-Buthe (Leribe District)",
+    "en": "Butha-Buthe (Leribe District)",
+    "slug": "butha-buthe-leribe-district"
+  },
+  "code": {
+    "id": "LSC14",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.764",
+    "lon": "28.229"
+  },
+  "metadata": {},
+  "source": {}
+}

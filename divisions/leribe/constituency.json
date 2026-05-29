@@ -1,0 +1,632 @@
+[
+  {
+    "id": "LSC04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "'Maoa-Mafubelu",
+      "en": "'Maoa-Mafubelu",
+      "slug": "maoa-mafubelu"
+    },
+    "code": {
+      "id": "LSC04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.958",
+      "lon": "28.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Bolahla",
+      "en": "Bolahla",
+      "slug": "bolahla"
+    },
+    "code": {
+      "id": "LSC02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.044",
+      "lon": "28.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC14",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Butha-Buthe (Leribe District)",
+      "en": "Butha-Buthe (Leribe District)",
+      "slug": "butha-buthe-leribe-district"
+    },
+    "code": {
+      "id": "LSC14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.764",
+      "lon": "28.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC09",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Hleoheng",
+      "en": "Hleoheng",
+      "slug": "hleoheng"
+    },
+    "code": {
+      "id": "LSC09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.954",
+      "lon": "27.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC13",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    },
+    "code": {
+      "id": "LSC13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.875",
+      "lon": "28.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC08",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Litjotjela",
+      "en": "Litjotjela",
+      "slug": "litjotjela"
+    },
+    "code": {
+      "id": "LSC08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.934",
+      "lon": "28.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Maisa-Phoka",
+      "en": "Maisa-Phoka",
+      "slug": "maisa-phoka"
+    },
+    "code": {
+      "id": "LSC06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.776",
+      "lon": "28.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC10",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Manka",
+      "en": "Manka",
+      "slug": "manka"
+    },
+    "code": {
+      "id": "LSC10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.974",
+      "lon": "27.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC12",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Maputsoe",
+      "en": "Maputsoe",
+      "slug": "maputsoe"
+    },
+    "code": {
+      "id": "LSC12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.897",
+      "lon": "27.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Matsoku",
+      "en": "Matsoku",
+      "slug": "matsoku"
+    },
+    "code": {
+      "id": "LSC01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.136",
+      "lon": "28.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Menkhoaneng",
+      "en": "Menkhoaneng",
+      "slug": "menkhoaneng"
+    },
+    "code": {
+      "id": "LSC05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.899",
+      "lon": "28.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ramapepe",
+      "en": "Ramapepe",
+      "slug": "ramapepe"
+    },
+    "code": {
+      "id": "LSC03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.017",
+      "lon": "28.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC07",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sephokong",
+      "en": "Sephokong",
+      "slug": "sephokong"
+    },
+    "code": {
+      "id": "LSC07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.811",
+      "lon": "28.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSC11",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsuili-Tsuili",
+      "en": "Tsuili-Tsuili",
+      "slug": "tsuili-tsuili"
+    },
+    "code": {
+      "id": "LSC11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSC",
+        "level": 1,
+        "name": {
+          "local": "Leribe",
+          "en": "Leribe",
+          "slug": "leribe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.04",
+      "lon": "27.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

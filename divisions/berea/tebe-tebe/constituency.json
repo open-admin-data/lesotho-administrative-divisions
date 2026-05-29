@@ -1,0 +1,45 @@
+{
+  "id": "LSD04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tebe-Tebe",
+    "en": "Tebe-Tebe",
+    "slug": "tebe-tebe"
+  },
+  "code": {
+    "id": "LSD04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSD",
+    "level": 1,
+    "name": {
+      "local": "Berea",
+      "en": "Berea",
+      "slug": "berea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.222",
+    "lon": "27.919"
+  },
+  "metadata": {},
+  "source": {}
+}

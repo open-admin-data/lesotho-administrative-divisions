@@ -1,0 +1,272 @@
+[
+  {
+    "id": "LSG01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mjanyane",
+      "en": "Mjanyane",
+      "slug": "mjanyane"
+    },
+    "code": {
+      "id": "LSG01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.528",
+      "lon": "27.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSG05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mphaki",
+      "en": "Mphaki",
+      "slug": "mphaki"
+    },
+    "code": {
+      "id": "LSG05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.161",
+      "lon": "28.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSG02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qomoqomong",
+      "en": "Qomoqomong",
+      "slug": "qomoqomong"
+    },
+    "code": {
+      "id": "LSG02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.459",
+      "lon": "27.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSG06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Quthing",
+      "en": "Quthing",
+      "slug": "quthing"
+    },
+    "code": {
+      "id": "LSG06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.405",
+      "lon": "27.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSG04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Telle",
+      "en": "Telle",
+      "slug": "telle"
+    },
+    "code": {
+      "id": "LSG04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.25",
+      "lon": "28.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSG03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tosing",
+      "en": "Tosing",
+      "slug": "tosing"
+    },
+    "code": {
+      "id": "LSG03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSG",
+        "level": 1,
+        "name": {
+          "local": "Quthing",
+          "en": "Quthing",
+          "slug": "quthing"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.451",
+      "lon": "27.976"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

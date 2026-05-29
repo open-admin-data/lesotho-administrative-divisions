@@ -1,0 +1,39 @@
+# Thaba-Tseka — Lesotho Administrative Divisions
+
+> 6 constituencys
+> Code: LSK
+> Coordinates: -29.508, 28.709
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Bokong
+
+Code: LSK04, Coordinates: -29.377, 28.633
+
+
+### Khutlo-se-Metsi
+
+Code: LSK02, Coordinates: -29.677, 28.391
+
+
+### Linakeng
+
+Code: LSK05, Coordinates: -29.679, 29.014
+
+
+### Litsoetse
+
+Code: LSK03, Coordinates: -29.707, 28.655
+
+
+### Tenesolo
+
+Code: LSK01, Coordinates: -29.389, 28.284
+
+
+### Thaba-Tseka
+
+Code: LSK06, Coordinates: -29.521, 28.585
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "LSA05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mohlakeng",
+    "en": "Mohlakeng",
+    "slug": "mohlakeng"
+  },
+  "code": {
+    "id": "LSA05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.479",
+    "lon": "27.608"
+  },
+  "metadata": {},
+  "source": {}
+}

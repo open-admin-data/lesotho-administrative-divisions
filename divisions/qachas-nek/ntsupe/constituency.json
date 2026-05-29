@@ -1,0 +1,45 @@
+{
+  "id": "LSH02",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ntsupe",
+    "en": "Ntsupe",
+    "slug": "ntsupe"
+  },
+  "code": {
+    "id": "LSH02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSH",
+    "level": 1,
+    "name": {
+      "local": "Qacha's Nek",
+      "en": "Qacha's Nek",
+      "slug": "qachas-nek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.92",
+    "lon": "28.689"
+  },
+  "metadata": {},
+  "source": {}
+}

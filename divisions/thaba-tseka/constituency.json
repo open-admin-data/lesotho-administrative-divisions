@@ -1,0 +1,272 @@
+[
+  {
+    "id": "LSK04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Bokong",
+      "en": "Bokong",
+      "slug": "bokong"
+    },
+    "code": {
+      "id": "LSK04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.377",
+      "lon": "28.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSK02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khutlo-se-Metsi",
+      "en": "Khutlo-se-Metsi",
+      "slug": "khutlo-se-metsi"
+    },
+    "code": {
+      "id": "LSK02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.677",
+      "lon": "28.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSK05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Linakeng",
+      "en": "Linakeng",
+      "slug": "linakeng"
+    },
+    "code": {
+      "id": "LSK05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.679",
+      "lon": "29.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSK03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Litsoetse",
+      "en": "Litsoetse",
+      "slug": "litsoetse"
+    },
+    "code": {
+      "id": "LSK03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.707",
+      "lon": "28.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSK01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tenesolo",
+      "en": "Tenesolo",
+      "slug": "tenesolo"
+    },
+    "code": {
+      "id": "LSK01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.389",
+      "lon": "28.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSK06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Thaba-Tseka",
+      "en": "Thaba-Tseka",
+      "slug": "thaba-tseka"
+    },
+    "code": {
+      "id": "LSK06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSK",
+        "level": 1,
+        "name": {
+          "local": "Thaba-Tseka",
+          "en": "Thaba-Tseka",
+          "slug": "thaba-tseka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.521",
+      "lon": "28.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

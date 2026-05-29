@@ -1,0 +1,45 @@
+{
+  "id": "LSA09",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Kubake",
+    "en": "Kubake",
+    "slug": "kubake"
+  },
+  "code": {
+    "id": "LSA09",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.673",
+    "lon": "27.693"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,11 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.constituency,zip_codes,geo.lat,geo.lon
+LSA,1,District,District,Maseru,Maseru,maseru,LSA,,,,,,12,,-29.623,27.805
+LSB,1,District,District,Butha-Buthe,Butha-Buthe,butha-buthe,LSB,,,,,,5,,-28.828,28.52
+LSC,1,District,District,Leribe,Leribe,leribe,LSC,,,,,,14,,-29.032,28.216
+LSD,1,District,District,Berea,Berea,berea,LSD,,,,,,10,,-29.171,27.903
+LSE,1,District,District,Mafeteng,Mafeteng,mafeteng,LSE,,,,,,8,,-29.792,27.539
+LSF,1,District,District,Mohale's Hoek,Mohale's Hoek,mohales-hoek,LSF,,,,,,8,,-30.101,27.884
+LSG,1,District,District,Quthing,Quthing,quthing,LSG,,,,,,6,,-30.349,27.965
+LSH,1,District,District,Qacha's Nek,Qacha's Nek,qachas-nek,LSH,,,,,,4,,-29.94,28.698
+LSJ,1,District,District,Mokhotlong,Mokhotlong,mokhotlong,LSJ,,,,,,5,,-29.156,29.006
+LSK,1,District,District,Thaba-Tseka,Thaba-Tseka,thaba-tseka,LSK,,,,,,6,,-29.508,28.709

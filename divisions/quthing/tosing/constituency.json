@@ -1,0 +1,45 @@
+{
+  "id": "LSG03",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tosing",
+    "en": "Tosing",
+    "slug": "tosing"
+  },
+  "code": {
+    "id": "LSG03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSG",
+    "level": 1,
+    "name": {
+      "local": "Quthing",
+      "en": "Quthing",
+      "slug": "quthing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSG",
+      "level": 1,
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.451",
+    "lon": "27.976"
+  },
+  "metadata": {},
+  "source": {}
+}

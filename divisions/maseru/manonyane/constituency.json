@@ -1,0 +1,45 @@
+{
+  "id": "LSA04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Manonyane",
+    "en": "Manonyane",
+    "slug": "manonyane"
+  },
+  "code": {
+    "id": "LSA04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.478",
+    "lon": "27.728"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,39 @@
+# Quthing — Lesotho Administrative Divisions
+
+> 6 constituencys
+> Code: LSG
+> Coordinates: -30.349, 27.965
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Mjanyane
+
+Code: LSG01, Coordinates: -30.528, 27.75
+
+
+### Mphaki
+
+Code: LSG05, Coordinates: -30.161, 28.206
+
+
+### Qomoqomong
+
+Code: LSG02, Coordinates: -30.459, 27.825
+
+
+### Quthing
+
+Code: LSG06, Coordinates: -30.405, 27.659
+
+
+### Telle
+
+Code: LSG04, Coordinates: -30.25, 28.041
+
+
+### Tosing
+
+Code: LSG03, Coordinates: -30.451, 27.976
+
+

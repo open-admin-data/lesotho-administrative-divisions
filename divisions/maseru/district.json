@@ -1,0 +1,29 @@
+{
+  "id": "LSA",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maseru",
+    "en": "Maseru",
+    "slug": "maseru"
+  },
+  "code": {
+    "id": "LSA",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.623",
+    "lon": "27.805"
+  },
+  "metadata": {},
+  "source": {}
+}

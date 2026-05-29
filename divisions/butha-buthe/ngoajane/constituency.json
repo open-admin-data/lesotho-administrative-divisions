@@ -1,0 +1,45 @@
+{
+  "id": "LSB01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ngoajane",
+    "en": "Ngoajane",
+    "slug": "ngoajane"
+  },
+  "code": {
+    "id": "LSB01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSB",
+    "level": 1,
+    "name": {
+      "local": "Butha-Buthe",
+      "en": "Butha-Buthe",
+      "slug": "butha-buthe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSB",
+      "level": 1,
+      "name": {
+        "local": "Butha-Buthe",
+        "en": "Butha-Buthe",
+        "slug": "butha-buthe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.658",
+    "lon": "28.547"
+  },
+  "metadata": {},
+  "source": {}
+}

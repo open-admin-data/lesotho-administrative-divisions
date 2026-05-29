@@ -1,0 +1,45 @@
+{
+  "id": "LSC11",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tsuili-Tsuili",
+    "en": "Tsuili-Tsuili",
+    "slug": "tsuili-tsuili"
+  },
+  "code": {
+    "id": "LSC11",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.04",
+    "lon": "27.779"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LSJ03",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Sanqebethu",
+    "en": "Sanqebethu",
+    "slug": "sanqebethu"
+  },
+  "code": {
+    "id": "LSJ03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSJ",
+    "level": 1,
+    "name": {
+      "local": "Mokhotlong",
+      "en": "Mokhotlong",
+      "slug": "mokhotlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.287",
+    "lon": "29.267"
+  },
+  "metadata": {},
+  "source": {}
+}

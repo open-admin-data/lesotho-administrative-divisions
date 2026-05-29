@@ -1,0 +1,45 @@
+{
+  "id": "LSD05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Phuthiatsana",
+    "en": "Phuthiatsana",
+    "slug": "phuthiatsana"
+  },
+  "code": {
+    "id": "LSD05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSD",
+    "level": 1,
+    "name": {
+      "local": "Berea",
+      "en": "Berea",
+      "slug": "berea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.128",
+    "lon": "27.884"
+  },
+  "metadata": {},
+  "source": {}
+}

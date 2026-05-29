@@ -1,0 +1,45 @@
+{
+  "id": "LSC03",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ramapepe",
+    "en": "Ramapepe",
+    "slug": "ramapepe"
+  },
+  "code": {
+    "id": "LSC03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.017",
+    "lon": "28.153"
+  },
+  "metadata": {},
+  "source": {}
+}

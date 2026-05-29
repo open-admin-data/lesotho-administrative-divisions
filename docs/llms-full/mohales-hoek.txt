@@ -1,0 +1,49 @@
+# Mohale&#39;s Hoek — Lesotho Administrative Divisions
+
+> 8 constituencys
+> Code: LSF
+> Coordinates: -30.101, 27.884
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Khoelenya
+
+Code: LSF03, Coordinates: -30.302, 27.498
+
+
+### Lithipeng
+
+Code: LSF04, Coordinates: -30.239, 27.696
+
+
+### Mashaleng
+
+Code: LSF02, Coordinates: -30.076, 27.401
+
+
+### Mohale&#39;s Hoek
+
+Code: LSF08, Coordinates: -30.145, 27.471
+
+
+### Qhoasing
+
+Code: LSF06, Coordinates: -30.023, 27.867
+
+
+### Senqunyane
+
+Code: LSF07, Coordinates: -29.937, 28.291
+
+
+### Siloe
+
+Code: LSF01, Coordinates: -29.998, 27.289
+
+
+### Thaba-Mokhele
+
+Code: LSF05, Coordinates: -30.078, 27.562
+
+

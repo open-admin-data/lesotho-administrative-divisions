@@ -1,0 +1,45 @@
+{
+  "id": "LSE05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Makoabating",
+    "en": "Makoabating",
+    "slug": "makoabating"
+  },
+  "code": {
+    "id": "LSE05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.927",
+    "lon": "27.444"
+  },
+  "metadata": {},
+  "source": {}
+}

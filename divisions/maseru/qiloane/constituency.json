@@ -1,0 +1,45 @@
+{
+  "id": "LSA01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Qiloane",
+    "en": "Qiloane",
+    "slug": "qiloane"
+  },
+  "code": {
+    "id": "LSA01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.358",
+    "lon": "27.647"
+  },
+  "metadata": {},
+  "source": {}
+}

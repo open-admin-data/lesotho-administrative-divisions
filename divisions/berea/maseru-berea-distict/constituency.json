@@ -1,0 +1,45 @@
+{
+  "id": "LSD09",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Maseru (Berea Distict)",
+    "en": "Maseru (Berea Distict)",
+    "slug": "maseru-berea-distict"
+  },
+  "code": {
+    "id": "LSD09",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSD",
+    "level": 1,
+    "name": {
+      "local": "Berea",
+      "en": "Berea",
+      "slug": "berea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.28",
+    "lon": "27.565"
+  },
+  "metadata": {},
+  "source": {}
+}

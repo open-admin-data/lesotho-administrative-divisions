@@ -1,0 +1,45 @@
+{
+  "id": "LSA06",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Thota-ea-Moli",
+    "en": "Thota-ea-Moli",
+    "slug": "thota-ea-moli"
+  },
+  "code": {
+    "id": "LSA06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.453",
+    "lon": "27.495"
+  },
+  "metadata": {},
+  "source": {}
+}

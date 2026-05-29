@@ -1,0 +1,59 @@
+# Berea — Lesotho Administrative Divisions
+
+> 10 constituencys
+> Code: LSD
+> Coordinates: -29.171, 27.903
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Kanana
+
+Code: LSD08, Coordinates: -29.257, 27.588
+
+
+### Kueneng
+
+Code: LSD03, Coordinates: -29.014, 28.003
+
+
+### Makeoana
+
+Code: LSD01, Coordinates: -29.223, 28.147
+
+
+### Mapoteng
+
+Code: LSD02, Coordinates: -29.126, 28.004
+
+
+### Maseru (Berea Distict)
+
+Code: LSD09, Coordinates: -29.28, 27.565
+
+
+### Motanasela
+
+Code: LSD06, Coordinates: -29.252, 27.847
+
+
+### Phuthiatsana
+
+Code: LSD05, Coordinates: -29.128, 27.884
+
+
+### Senekane
+
+Code: LSD07, Coordinates: -29.225, 27.687
+
+
+### Tayateyaneng
+
+Code: LSD10, Coordinates: -29.144, 27.77
+
+
+### Tebe-Tebe
+
+Code: LSD04, Coordinates: -29.222, 27.919
+
+

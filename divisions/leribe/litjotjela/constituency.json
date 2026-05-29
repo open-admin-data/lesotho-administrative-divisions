@@ -1,0 +1,45 @@
+{
+  "id": "LSC08",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Litjotjela",
+    "en": "Litjotjela",
+    "slug": "litjotjela"
+  },
+  "code": {
+    "id": "LSC08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.934",
+    "lon": "28.019"
+  },
+  "metadata": {},
+  "source": {}
+}

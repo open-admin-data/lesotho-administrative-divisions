@@ -1,0 +1,45 @@
+{
+  "id": "LSE08",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mafeteng",
+    "en": "Mafeteng",
+    "slug": "mafeteng"
+  },
+  "code": {
+    "id": "LSE08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.817",
+    "lon": "27.253"
+  },
+  "metadata": {},
+  "source": {}
+}

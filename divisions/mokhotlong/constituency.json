@@ -1,0 +1,227 @@
+[
+  {
+    "id": "LSJ04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Menoaneng",
+      "en": "Menoaneng",
+      "slug": "menoaneng"
+    },
+    "code": {
+      "id": "LSJ04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSJ",
+        "level": 1,
+        "name": {
+          "local": "Mokhotlong",
+          "en": "Mokhotlong",
+          "slug": "mokhotlong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.433",
+      "lon": "29.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSJ05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mokhotlong",
+      "en": "Mokhotlong",
+      "slug": "mokhotlong"
+    },
+    "code": {
+      "id": "LSJ05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSJ",
+        "level": 1,
+        "name": {
+          "local": "Mokhotlong",
+          "en": "Mokhotlong",
+          "slug": "mokhotlong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.31",
+      "lon": "29.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSJ02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mphokojoana",
+      "en": "Mphokojoana",
+      "slug": "mphokojoana"
+    },
+    "code": {
+      "id": "LSJ02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSJ",
+        "level": 1,
+        "name": {
+          "local": "Mokhotlong",
+          "en": "Mokhotlong",
+          "slug": "mokhotlong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.041",
+      "lon": "29.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSJ03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sanqebethu",
+      "en": "Sanqebethu",
+      "slug": "sanqebethu"
+    },
+    "code": {
+      "id": "LSJ03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSJ",
+        "level": 1,
+        "name": {
+          "local": "Mokhotlong",
+          "en": "Mokhotlong",
+          "slug": "mokhotlong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.287",
+      "lon": "29.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSJ01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Seate",
+      "en": "Seate",
+      "slug": "seate"
+    },
+    "code": {
+      "id": "LSJ01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSJ",
+        "level": 1,
+        "name": {
+          "local": "Mokhotlong",
+          "en": "Mokhotlong",
+          "slug": "mokhotlong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.06",
+      "lon": "28.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

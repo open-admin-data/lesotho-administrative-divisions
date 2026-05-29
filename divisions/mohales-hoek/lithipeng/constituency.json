@@ -1,0 +1,45 @@
+{
+  "id": "LSF04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Lithipeng",
+    "en": "Lithipeng",
+    "slug": "lithipeng"
+  },
+  "code": {
+    "id": "LSF04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSF",
+    "level": 1,
+    "name": {
+      "local": "Mohale's Hoek",
+      "en": "Mohale's Hoek",
+      "slug": "mohales-hoek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.239",
+    "lon": "27.696"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "LSE04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Lehlakaneng",
+      "en": "Lehlakaneng",
+      "slug": "lehlakaneng"
+    },
+    "code": {
+      "id": "LSE04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.815",
+      "lon": "27.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE08",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    },
+    "code": {
+      "id": "LSE08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.817",
+      "lon": "27.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Makoabating",
+      "en": "Makoabating",
+      "slug": "makoabating"
+    },
+    "code": {
+      "id": "LSE05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.927",
+      "lon": "27.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mamants'o",
+      "en": "Mamants'o",
+      "slug": "mamantso"
+    },
+    "code": {
+      "id": "LSE02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.661",
+      "lon": "27.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Metsi-Maholo",
+      "en": "Metsi-Maholo",
+      "slug": "metsi-maholo"
+    },
+    "code": {
+      "id": "LSE01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.616",
+      "lon": "27.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE07",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qibing",
+      "en": "Qibing",
+      "slug": "qibing"
+    },
+    "code": {
+      "id": "LSE07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.771",
+      "lon": "27.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ramoetsana",
+      "en": "Ramoetsana",
+      "slug": "ramoetsana"
+    },
+    "code": {
+      "id": "LSE03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.836",
+      "lon": "27.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSE06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsana-Talana",
+      "en": "Tsana-Talana",
+      "slug": "tsana-talana"
+    },
+    "code": {
+      "id": "LSE06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSE",
+        "level": 1,
+        "name": {
+          "local": "Mafeteng",
+          "en": "Mafeteng",
+          "slug": "mafeteng"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.791",
+      "lon": "27.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

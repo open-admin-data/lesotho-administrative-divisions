@@ -1,0 +1,45 @@
+{
+  "id": "LSC06",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Maisa-Phoka",
+    "en": "Maisa-Phoka",
+    "slug": "maisa-phoka"
+  },
+  "code": {
+    "id": "LSC06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.776",
+    "lon": "28.2"
+  },
+  "metadata": {},
+  "source": {}
+}

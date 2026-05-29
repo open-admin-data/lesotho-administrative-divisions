@@ -1,0 +1,29 @@
+{
+  "id": "LSH",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qacha's Nek",
+    "en": "Qacha's Nek",
+    "slug": "qachas-nek"
+  },
+  "code": {
+    "id": "LSH",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.94",
+    "lon": "28.698"
+  },
+  "metadata": {},
+  "source": {}
+}

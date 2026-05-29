@@ -1,0 +1,362 @@
+[
+  {
+    "id": "LSF03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khoelenya",
+      "en": "Khoelenya",
+      "slug": "khoelenya"
+    },
+    "code": {
+      "id": "LSF03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.302",
+      "lon": "27.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Lithipeng",
+      "en": "Lithipeng",
+      "slug": "lithipeng"
+    },
+    "code": {
+      "id": "LSF04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.239",
+      "lon": "27.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mashaleng",
+      "en": "Mashaleng",
+      "slug": "mashaleng"
+    },
+    "code": {
+      "id": "LSF02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.076",
+      "lon": "27.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF08",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mohale's Hoek",
+      "en": "Mohale's Hoek",
+      "slug": "mohales-hoek"
+    },
+    "code": {
+      "id": "LSF08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.145",
+      "lon": "27.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qhoasing",
+      "en": "Qhoasing",
+      "slug": "qhoasing"
+    },
+    "code": {
+      "id": "LSF06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.023",
+      "lon": "27.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF07",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Senqunyane",
+      "en": "Senqunyane",
+      "slug": "senqunyane"
+    },
+    "code": {
+      "id": "LSF07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.937",
+      "lon": "28.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Siloe",
+      "en": "Siloe",
+      "slug": "siloe"
+    },
+    "code": {
+      "id": "LSF01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.998",
+      "lon": "27.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSF05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Thaba-Mokhele",
+      "en": "Thaba-Mokhele",
+      "slug": "thaba-mokhele"
+    },
+    "code": {
+      "id": "LSF05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSF",
+        "level": 1,
+        "name": {
+          "local": "Mohale's Hoek",
+          "en": "Mohale's Hoek",
+          "slug": "mohales-hoek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.078",
+      "lon": "27.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "LSK",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thaba-Tseka",
+    "en": "Thaba-Tseka",
+    "slug": "thaba-tseka"
+  },
+  "code": {
+    "id": "LSK",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.508",
+    "lon": "28.709"
+  },
+  "metadata": {},
+  "source": {}
+}

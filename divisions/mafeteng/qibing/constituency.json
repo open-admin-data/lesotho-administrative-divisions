@@ -1,0 +1,45 @@
+{
+  "id": "LSE07",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Qibing",
+    "en": "Qibing",
+    "slug": "qibing"
+  },
+  "code": {
+    "id": "LSE07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.771",
+    "lon": "27.134"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LSH01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Qanya",
+    "en": "Qanya",
+    "slug": "qanya"
+  },
+  "code": {
+    "id": "LSH01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSH",
+    "level": 1,
+    "name": {
+      "local": "Qacha's Nek",
+      "en": "Qacha's Nek",
+      "slug": "qachas-nek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.083",
+    "lon": "28.414"
+  },
+  "metadata": {},
+  "source": {}
+}

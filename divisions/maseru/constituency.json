@@ -1,0 +1,542 @@
+[
+  {
+    "id": "LSA09",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kubake",
+      "en": "Kubake",
+      "slug": "kubake"
+    },
+    "code": {
+      "id": "LSA09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.673",
+      "lon": "27.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Likolobeng",
+      "en": "Likolobeng",
+      "slug": "likolobeng"
+    },
+    "code": {
+      "id": "LSA03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.48",
+      "lon": "27.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA07",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Lilala",
+      "en": "Lilala",
+      "slug": "lilala"
+    },
+    "code": {
+      "id": "LSA07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.499",
+      "lon": "27.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA10",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Makhoalipana",
+      "en": "Makhoalipana",
+      "slug": "makhoalipana"
+    },
+    "code": {
+      "id": "LSA10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.76",
+      "lon": "28.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA08",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Makhoarane",
+      "en": "Makhoarane",
+      "slug": "makhoarane"
+    },
+    "code": {
+      "id": "LSA08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.591",
+      "lon": "27.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Manonyane",
+      "en": "Manonyane",
+      "slug": "manonyane"
+    },
+    "code": {
+      "id": "LSA04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.478",
+      "lon": "27.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA12",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Maseru (Maseru District)",
+      "en": "Maseru (Maseru District)",
+      "slug": "maseru-maseru-district"
+    },
+    "code": {
+      "id": "LSA12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.345",
+      "lon": "27.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA05",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mohlakeng",
+      "en": "Mohlakeng",
+      "slug": "mohlakeng"
+    },
+    "code": {
+      "id": "LSA05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.479",
+      "lon": "27.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qiloane",
+      "en": "Qiloane",
+      "slug": "qiloane"
+    },
+    "code": {
+      "id": "LSA01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.358",
+      "lon": "27.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ratau",
+      "en": "Ratau",
+      "slug": "ratau"
+    },
+    "code": {
+      "id": "LSA02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.38",
+      "lon": "27.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA11",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Semonkong",
+      "en": "Semonkong",
+      "slug": "semonkong"
+    },
+    "code": {
+      "id": "LSA11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.842",
+      "lon": "28.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSA06",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Thota-ea-Moli",
+      "en": "Thota-ea-Moli",
+      "slug": "thota-ea-moli"
+    },
+    "code": {
+      "id": "LSA06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSA",
+        "level": 1,
+        "name": {
+          "local": "Maseru",
+          "en": "Maseru",
+          "slug": "maseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.453",
+      "lon": "27.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

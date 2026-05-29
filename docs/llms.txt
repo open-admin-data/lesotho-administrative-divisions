@@ -1,0 +1,70 @@
+# Lesotho Administrative Divisions
+
+> Open dataset of Lesotho's administrative hierarchy:
+> 10 districts, 78 constituencys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 10
+- Total constituencys: 78
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/data/all-district.json)
+- [All constituencys (JSON)](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/data/all-constituency.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Quthing](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/quthing/) — 6 constituencys
+- [Mohale&#39;s Hoek](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/mohales-hoek/) — 8 constituencys
+- [Qacha&#39;s Nek](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/qachas-nek/) — 4 constituencys
+- [Mafeteng](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/mafeteng/) — 8 constituencys
+- [Maseru](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/maseru/) — 12 constituencys
+- [Thaba-Tseka](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/thaba-tseka/) — 6 constituencys
+- [Mokhotlong](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/mokhotlong/) — 5 constituencys
+- [Berea](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/berea/) — 10 constituencys
+- [Leribe](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/leribe/) — 14 constituencys
+- [Butha-Buthe](https://github.com/open-admin-data/lesotho-administrative-divisions/tree/main/divisions/butha-buthe/) — 5 constituencys
+
+## Per-District Full Data
+
+- [Quthing](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/quthing.txt)
+- [Mohale&#39;s Hoek](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/mohales-hoek.txt)
+- [Qacha&#39;s Nek](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/qachas-nek.txt)
+- [Mafeteng](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/mafeteng.txt)
+- [Maseru](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/maseru.txt)
+- [Thaba-Tseka](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/thaba-tseka.txt)
+- [Mokhotlong](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/mokhotlong.txt)
+- [Berea](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/berea.txt)
+- [Leribe](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/leribe.txt)
+- [Butha-Buthe](https://raw.githubusercontent.com/open-admin-data/lesotho-administrative-divisions/main/docs/llms-full/butha-buthe.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (constituency)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Lesotho Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/lesotho-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

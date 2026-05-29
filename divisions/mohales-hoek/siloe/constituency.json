@@ -1,0 +1,45 @@
+{
+  "id": "LSF01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Siloe",
+    "en": "Siloe",
+    "slug": "siloe"
+  },
+  "code": {
+    "id": "LSF01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSF",
+    "level": 1,
+    "name": {
+      "local": "Mohale's Hoek",
+      "en": "Mohale's Hoek",
+      "slug": "mohales-hoek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.998",
+    "lon": "27.289"
+  },
+  "metadata": {},
+  "source": {}
+}

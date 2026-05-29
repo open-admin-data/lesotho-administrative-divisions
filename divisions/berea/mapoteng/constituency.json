@@ -1,0 +1,45 @@
+{
+  "id": "LSD02",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mapoteng",
+    "en": "Mapoteng",
+    "slug": "mapoteng"
+  },
+  "code": {
+    "id": "LSD02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSD",
+    "level": 1,
+    "name": {
+      "local": "Berea",
+      "en": "Berea",
+      "slug": "berea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSD",
+      "level": 1,
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.126",
+    "lon": "28.004"
+  },
+  "metadata": {},
+  "source": {}
+}

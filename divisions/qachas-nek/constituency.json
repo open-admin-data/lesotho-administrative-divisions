@@ -1,0 +1,182 @@
+[
+  {
+    "id": "LSH02",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ntsupe",
+      "en": "Ntsupe",
+      "slug": "ntsupe"
+    },
+    "code": {
+      "id": "LSH02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSH",
+        "level": 1,
+        "name": {
+          "local": "Qacha's Nek",
+          "en": "Qacha's Nek",
+          "slug": "qachas-nek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.92",
+      "lon": "28.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSH04",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qacha's Nek",
+      "en": "Qacha's Nek",
+      "slug": "qachas-nek"
+    },
+    "code": {
+      "id": "LSH04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSH",
+        "level": 1,
+        "name": {
+          "local": "Qacha's Nek",
+          "en": "Qacha's Nek",
+          "slug": "qachas-nek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.097",
+      "lon": "28.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSH01",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Qanya",
+      "en": "Qanya",
+      "slug": "qanya"
+    },
+    "code": {
+      "id": "LSH01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSH",
+        "level": 1,
+        "name": {
+          "local": "Qacha's Nek",
+          "en": "Qacha's Nek",
+          "slug": "qachas-nek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.083",
+      "lon": "28.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LSH03",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsoelikana",
+      "en": "Tsoelikana",
+      "slug": "tsoelikana"
+    },
+    "code": {
+      "id": "LSH03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LSH",
+      "level": 1,
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LSH",
+        "level": 1,
+        "name": {
+          "local": "Qacha's Nek",
+          "en": "Qacha's Nek",
+          "slug": "qachas-nek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.907",
+      "lon": "28.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "LSF",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mohale's Hoek",
+    "en": "Mohale's Hoek",
+    "slug": "mohales-hoek"
+  },
+  "code": {
+    "id": "LSF",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.101",
+    "lon": "27.884"
+  },
+  "metadata": {},
+  "source": {}
+}

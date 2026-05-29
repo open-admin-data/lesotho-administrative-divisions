@@ -1,0 +1,45 @@
+{
+  "id": "LSE02",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mamants'o",
+    "en": "Mamants'o",
+    "slug": "mamantso"
+  },
+  "code": {
+    "id": "LSE02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.661",
+    "lon": "27.342"
+  },
+  "metadata": {},
+  "source": {}
+}

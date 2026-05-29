@@ -1,0 +1,31 @@
+# Lesotho Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Quthing](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/quthing.txt) — 6 constituencys
+- [Mohale&#39;s Hoek](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/mohales-hoek.txt) — 8 constituencys
+- [Qacha&#39;s Nek](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/qachas-nek.txt) — 4 constituencys
+- [Mafeteng](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/mafeteng.txt) — 8 constituencys
+- [Maseru](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/maseru.txt) — 12 constituencys
+- [Thaba-Tseka](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/thaba-tseka.txt) — 6 constituencys
+- [Mokhotlong](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/mokhotlong.txt) — 5 constituencys
+- [Berea](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/berea.txt) — 10 constituencys
+- [Leribe](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/leribe.txt) — 14 constituencys
+- [Butha-Buthe](https://github.com/open-admin-data/lesotho-administrative-divisions/blob/main/docs/llms-full/butha-buthe.txt) — 5 constituencys
+
+## Summary
+
+| District | Constituencys | 
+|---|---|
+| Quthing | 6 | 
+| Mohale&#39;s Hoek | 8 | 
+| Qacha&#39;s Nek | 4 | 
+| Mafeteng | 8 | 
+| Maseru | 12 | 
+| Thaba-Tseka | 6 | 
+| Mokhotlong | 5 | 
+| Berea | 10 | 
+| Leribe | 14 | 
+| Butha-Buthe | 5 | 

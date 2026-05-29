@@ -1,0 +1,45 @@
+{
+  "id": "LSB03",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Nqoe",
+    "en": "Nqoe",
+    "slug": "nqoe"
+  },
+  "code": {
+    "id": "LSB03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSB",
+    "level": 1,
+    "name": {
+      "local": "Butha-Buthe",
+      "en": "Butha-Buthe",
+      "slug": "butha-buthe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSB",
+      "level": 1,
+      "name": {
+        "local": "Butha-Buthe",
+        "en": "Butha-Buthe",
+        "slug": "butha-buthe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.865",
+    "lon": "28.618"
+  },
+  "metadata": {},
+  "source": {}
+}

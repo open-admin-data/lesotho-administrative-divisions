@@ -1,0 +1,45 @@
+{
+  "id": "LSA10",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Makhoalipana",
+    "en": "Makhoalipana",
+    "slug": "makhoalipana"
+  },
+  "code": {
+    "id": "LSA10",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSA",
+    "level": 1,
+    "name": {
+      "local": "Maseru",
+      "en": "Maseru",
+      "slug": "maseru"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSA",
+      "level": 1,
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.76",
+    "lon": "28.004"
+  },
+  "metadata": {},
+  "source": {}
+}

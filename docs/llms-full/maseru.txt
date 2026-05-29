@@ -1,0 +1,69 @@
+# Maseru — Lesotho Administrative Divisions
+
+> 12 constituencys
+> Code: LSA
+> Coordinates: -29.623, 27.805
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Kubake
+
+Code: LSA09, Coordinates: -29.673, 27.693
+
+
+### Likolobeng
+
+Code: LSA03, Coordinates: -29.48, 27.966
+
+
+### Lilala
+
+Code: LSA07, Coordinates: -29.499, 27.401
+
+
+### Makhoalipana
+
+Code: LSA10, Coordinates: -29.76, 28.004
+
+
+### Makhoarane
+
+Code: LSA08, Coordinates: -29.591, 27.536
+
+
+### Manonyane
+
+Code: LSA04, Coordinates: -29.478, 27.728
+
+
+### Maseru (Maseru District)
+
+Code: LSA12, Coordinates: -29.345, 27.522
+
+
+### Mohlakeng
+
+Code: LSA05, Coordinates: -29.479, 27.608
+
+
+### Qiloane
+
+Code: LSA01, Coordinates: -29.358, 27.647
+
+
+### Ratau
+
+Code: LSA02, Coordinates: -29.38, 27.794
+
+
+### Semonkong
+
+Code: LSA11, Coordinates: -29.842, 28.048
+
+
+### Thota-ea-Moli
+
+Code: LSA06, Coordinates: -29.453, 27.495
+
+

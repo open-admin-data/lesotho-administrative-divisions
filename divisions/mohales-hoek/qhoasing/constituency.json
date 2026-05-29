@@ -1,0 +1,45 @@
+{
+  "id": "LSF06",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Qhoasing",
+    "en": "Qhoasing",
+    "slug": "qhoasing"
+  },
+  "code": {
+    "id": "LSF06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSF",
+    "level": 1,
+    "name": {
+      "local": "Mohale's Hoek",
+      "en": "Mohale's Hoek",
+      "slug": "mohales-hoek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSF",
+      "level": 1,
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.023",
+    "lon": "27.867"
+  },
+  "metadata": {},
+  "source": {}
+}

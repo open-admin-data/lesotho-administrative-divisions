@@ -1,0 +1,29 @@
+{
+  "id": "LSC",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Leribe",
+    "en": "Leribe",
+    "slug": "leribe"
+  },
+  "code": {
+    "id": "LSC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.032",
+    "lon": "28.216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+# Mafeteng — Lesotho Administrative Divisions
+
+> 8 constituencys
+> Code: LSE
+> Coordinates: -29.792, 27.539
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Constituencys
+
+### Lehlakaneng
+
+Code: LSE04, Coordinates: -29.815, 27.642
+
+
+### Mafeteng
+
+Code: LSE08, Coordinates: -29.817, 27.253
+
+
+### Makoabating
+
+Code: LSE05, Coordinates: -29.927, 27.444
+
+
+### Mamants&#39;o
+
+Code: LSE02, Coordinates: -29.661, 27.342
+
+
+### Metsi-Maholo
+
+Code: LSE01, Coordinates: -29.616, 27.167
+
+
+### Qibing
+
+Code: LSE07, Coordinates: -29.771, 27.134
+
+
+### Ramoetsana
+
+Code: LSE03, Coordinates: -29.836, 27.528
+
+
+### Tsana-Talana
+
+Code: LSE06, Coordinates: -29.791, 27.302
+
+

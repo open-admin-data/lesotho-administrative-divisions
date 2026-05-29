@@ -1,0 +1,45 @@
+{
+  "id": "LSJ02",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mphokojoana",
+    "en": "Mphokojoana",
+    "slug": "mphokojoana"
+  },
+  "code": {
+    "id": "LSJ02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSJ",
+    "level": 1,
+    "name": {
+      "local": "Mokhotlong",
+      "en": "Mokhotlong",
+      "slug": "mokhotlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSJ",
+      "level": 1,
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.041",
+    "lon": "29.097"
+  },
+  "metadata": {},
+  "source": {}
+}

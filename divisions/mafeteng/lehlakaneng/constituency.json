@@ -1,0 +1,45 @@
+{
+  "id": "LSE04",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Lehlakaneng",
+    "en": "Lehlakaneng",
+    "slug": "lehlakaneng"
+  },
+  "code": {
+    "id": "LSE04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.815",
+    "lon": "27.642"
+  },
+  "metadata": {},
+  "source": {}
+}

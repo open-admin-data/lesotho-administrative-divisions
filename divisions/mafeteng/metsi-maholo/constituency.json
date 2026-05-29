@@ -1,0 +1,45 @@
+{
+  "id": "LSE01",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Metsi-Maholo",
+    "en": "Metsi-Maholo",
+    "slug": "metsi-maholo"
+  },
+  "code": {
+    "id": "LSE01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSE",
+    "level": 1,
+    "name": {
+      "local": "Mafeteng",
+      "en": "Mafeteng",
+      "slug": "mafeteng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSE",
+      "level": 1,
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.616",
+    "lon": "27.167"
+  },
+  "metadata": {},
+  "source": {}
+}

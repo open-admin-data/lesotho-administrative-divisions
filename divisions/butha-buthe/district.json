@@ -1,0 +1,29 @@
+{
+  "id": "LSB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Butha-Buthe",
+    "en": "Butha-Buthe",
+    "slug": "butha-buthe"
+  },
+  "code": {
+    "id": "LSB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.828",
+    "lon": "28.52"
+  },
+  "metadata": {},
+  "source": {}
+}

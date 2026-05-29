@@ -1,0 +1,45 @@
+{
+  "id": "LSC05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Menkhoaneng",
+    "en": "Menkhoaneng",
+    "slug": "menkhoaneng"
+  },
+  "code": {
+    "id": "LSC05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSC",
+    "level": 1,
+    "name": {
+      "local": "Leribe",
+      "en": "Leribe",
+      "slug": "leribe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSC",
+      "level": 1,
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.899",
+    "lon": "28.341"
+  },
+  "metadata": {},
+  "source": {}
+}

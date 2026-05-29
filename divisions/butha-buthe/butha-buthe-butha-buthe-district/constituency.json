@@ -1,0 +1,45 @@
+{
+  "id": "LSB05",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Butha-Buthe (Butha-Buthe District)",
+    "en": "Butha-Buthe (Butha-Buthe District)",
+    "slug": "butha-buthe-butha-buthe-district"
+  },
+  "code": {
+    "id": "LSB05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSB",
+    "level": 1,
+    "name": {
+      "local": "Butha-Buthe",
+      "en": "Butha-Buthe",
+      "slug": "butha-buthe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSB",
+      "level": 1,
+      "name": {
+        "local": "Butha-Buthe",
+        "en": "Butha-Buthe",
+        "slug": "butha-buthe"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.757",
+    "lon": "28.268"
+  },
+  "metadata": {},
+  "source": {}
+}

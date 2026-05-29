@@ -1,0 +1,45 @@
+{
+  "id": "LSK06",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Thaba-Tseka",
+    "en": "Thaba-Tseka",
+    "slug": "thaba-tseka"
+  },
+  "code": {
+    "id": "LSK06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LSK",
+    "level": 1,
+    "name": {
+      "local": "Thaba-Tseka",
+      "en": "Thaba-Tseka",
+      "slug": "thaba-tseka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LSK",
+      "level": 1,
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.521",
+    "lon": "28.585"
+  },
+  "metadata": {},
+  "source": {}
+}
