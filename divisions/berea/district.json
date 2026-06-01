@@ -25,5 +25,9 @@
     "lon": "27.903"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/berea/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

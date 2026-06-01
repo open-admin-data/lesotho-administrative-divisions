@@ -1,1078 +1,1081 @@
-[
-  {
-    "id": "LSG",
-    "name": {
-      "local": "Quthing",
-      "en": "Quthing",
-      "slug": "quthing"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/ls/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/lesotho-administrative-divisions",
+  "data": [
+    {
       "id": "LSG",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSG01",
-        "name": {
-          "local": "Mjanyane",
-          "en": "Mjanyane",
-          "slug": "mjanyane"
-        },
-        "code": {
+      "name": {
+        "local": "Quthing",
+        "en": "Quthing",
+        "slug": "quthing"
+      },
+      "code": {
+        "id": "LSG",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSG01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSG02",
-        "name": {
-          "local": "Qomoqomong",
-          "en": "Qomoqomong",
-          "slug": "qomoqomong"
+          "name": {
+            "local": "Mjanyane",
+            "en": "Mjanyane",
+            "slug": "mjanyane"
+          },
+          "code": {
+            "id": "LSG01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSG02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSG03",
-        "name": {
-          "local": "Tosing",
-          "en": "Tosing",
-          "slug": "tosing"
+          "name": {
+            "local": "Qomoqomong",
+            "en": "Qomoqomong",
+            "slug": "qomoqomong"
+          },
+          "code": {
+            "id": "LSG02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSG03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSG04",
-        "name": {
-          "local": "Telle",
-          "en": "Telle",
-          "slug": "telle"
+          "name": {
+            "local": "Tosing",
+            "en": "Tosing",
+            "slug": "tosing"
+          },
+          "code": {
+            "id": "LSG03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSG04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSG05",
-        "name": {
-          "local": "Mphaki",
-          "en": "Mphaki",
-          "slug": "mphaki"
+          "name": {
+            "local": "Telle",
+            "en": "Telle",
+            "slug": "telle"
+          },
+          "code": {
+            "id": "LSG04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSG05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSG06",
-        "name": {
-          "local": "Quthing",
-          "en": "Quthing",
-          "slug": "quthing"
+          "name": {
+            "local": "Mphaki",
+            "en": "Mphaki",
+            "slug": "mphaki"
+          },
+          "code": {
+            "id": "LSG05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSG06",
-          "iso": null
+          "name": {
+            "local": "Quthing",
+            "en": "Quthing",
+            "slug": "quthing"
+          },
+          "code": {
+            "id": "LSG06",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSF",
-    "name": {
-      "local": "Mohale's Hoek",
-      "en": "Mohale's Hoek",
-      "slug": "mohales-hoek"
+      ]
     },
-    "code": {
+    {
       "id": "LSF",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSF03",
-        "name": {
-          "local": "Khoelenya",
-          "en": "Khoelenya",
-          "slug": "khoelenya"
-        },
-        "code": {
+      "name": {
+        "local": "Mohale's Hoek",
+        "en": "Mohale's Hoek",
+        "slug": "mohales-hoek"
+      },
+      "code": {
+        "id": "LSF",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSF03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF04",
-        "name": {
-          "local": "Lithipeng",
-          "en": "Lithipeng",
-          "slug": "lithipeng"
+          "name": {
+            "local": "Khoelenya",
+            "en": "Khoelenya",
+            "slug": "khoelenya"
+          },
+          "code": {
+            "id": "LSF03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF02",
-        "name": {
-          "local": "Mashaleng",
-          "en": "Mashaleng",
-          "slug": "mashaleng"
+          "name": {
+            "local": "Lithipeng",
+            "en": "Lithipeng",
+            "slug": "lithipeng"
+          },
+          "code": {
+            "id": "LSF04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF05",
-        "name": {
-          "local": "Thaba-Mokhele",
-          "en": "Thaba-Mokhele",
-          "slug": "thaba-mokhele"
+          "name": {
+            "local": "Mashaleng",
+            "en": "Mashaleng",
+            "slug": "mashaleng"
+          },
+          "code": {
+            "id": "LSF02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF01",
-        "name": {
-          "local": "Siloe",
-          "en": "Siloe",
-          "slug": "siloe"
+          "name": {
+            "local": "Thaba-Mokhele",
+            "en": "Thaba-Mokhele",
+            "slug": "thaba-mokhele"
+          },
+          "code": {
+            "id": "LSF05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF06",
-        "name": {
-          "local": "Qhoasing",
-          "en": "Qhoasing",
-          "slug": "qhoasing"
+          "name": {
+            "local": "Siloe",
+            "en": "Siloe",
+            "slug": "siloe"
+          },
+          "code": {
+            "id": "LSF01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF06",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF07",
-        "name": {
-          "local": "Senqunyane",
-          "en": "Senqunyane",
-          "slug": "senqunyane"
+          "name": {
+            "local": "Qhoasing",
+            "en": "Qhoasing",
+            "slug": "qhoasing"
+          },
+          "code": {
+            "id": "LSF06",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF07",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSF08",
-        "name": {
-          "local": "Mohale's Hoek",
-          "en": "Mohale's Hoek",
-          "slug": "mohales-hoek"
+          "name": {
+            "local": "Senqunyane",
+            "en": "Senqunyane",
+            "slug": "senqunyane"
+          },
+          "code": {
+            "id": "LSF07",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSF08",
-          "iso": null
+          "name": {
+            "local": "Mohale's Hoek",
+            "en": "Mohale's Hoek",
+            "slug": "mohales-hoek"
+          },
+          "code": {
+            "id": "LSF08",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSH",
-    "name": {
-      "local": "Qacha's Nek",
-      "en": "Qacha's Nek",
-      "slug": "qachas-nek"
+      ]
     },
-    "code": {
+    {
       "id": "LSH",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSH01",
-        "name": {
-          "local": "Qanya",
-          "en": "Qanya",
-          "slug": "qanya"
-        },
-        "code": {
+      "name": {
+        "local": "Qacha's Nek",
+        "en": "Qacha's Nek",
+        "slug": "qachas-nek"
+      },
+      "code": {
+        "id": "LSH",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSH01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSH02",
-        "name": {
-          "local": "Ntsupe",
-          "en": "Ntsupe",
-          "slug": "ntsupe"
+          "name": {
+            "local": "Qanya",
+            "en": "Qanya",
+            "slug": "qanya"
+          },
+          "code": {
+            "id": "LSH01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSH02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSH03",
-        "name": {
-          "local": "Tsoelikana",
-          "en": "Tsoelikana",
-          "slug": "tsoelikana"
+          "name": {
+            "local": "Ntsupe",
+            "en": "Ntsupe",
+            "slug": "ntsupe"
+          },
+          "code": {
+            "id": "LSH02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSH03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSH04",
-        "name": {
-          "local": "Qacha's Nek",
-          "en": "Qacha's Nek",
-          "slug": "qachas-nek"
+          "name": {
+            "local": "Tsoelikana",
+            "en": "Tsoelikana",
+            "slug": "tsoelikana"
+          },
+          "code": {
+            "id": "LSH03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSH04",
-          "iso": null
+          "name": {
+            "local": "Qacha's Nek",
+            "en": "Qacha's Nek",
+            "slug": "qachas-nek"
+          },
+          "code": {
+            "id": "LSH04",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSE",
-    "name": {
-      "local": "Mafeteng",
-      "en": "Mafeteng",
-      "slug": "mafeteng"
+      ]
     },
-    "code": {
+    {
       "id": "LSE",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSE05",
-        "name": {
-          "local": "Makoabating",
-          "en": "Makoabating",
-          "slug": "makoabating"
-        },
-        "code": {
+      "name": {
+        "local": "Mafeteng",
+        "en": "Mafeteng",
+        "slug": "mafeteng"
+      },
+      "code": {
+        "id": "LSE",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSE05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE03",
-        "name": {
-          "local": "Ramoetsana",
-          "en": "Ramoetsana",
-          "slug": "ramoetsana"
+          "name": {
+            "local": "Makoabating",
+            "en": "Makoabating",
+            "slug": "makoabating"
+          },
+          "code": {
+            "id": "LSE05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE06",
-        "name": {
-          "local": "Tsana-Talana",
-          "en": "Tsana-Talana",
-          "slug": "tsana-talana"
+          "name": {
+            "local": "Ramoetsana",
+            "en": "Ramoetsana",
+            "slug": "ramoetsana"
+          },
+          "code": {
+            "id": "LSE03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE06",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE04",
-        "name": {
-          "local": "Lehlakaneng",
-          "en": "Lehlakaneng",
-          "slug": "lehlakaneng"
+          "name": {
+            "local": "Tsana-Talana",
+            "en": "Tsana-Talana",
+            "slug": "tsana-talana"
+          },
+          "code": {
+            "id": "LSE06",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE07",
-        "name": {
-          "local": "Qibing",
-          "en": "Qibing",
-          "slug": "qibing"
+          "name": {
+            "local": "Lehlakaneng",
+            "en": "Lehlakaneng",
+            "slug": "lehlakaneng"
+          },
+          "code": {
+            "id": "LSE04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE07",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE02",
-        "name": {
-          "local": "Mamants'o",
-          "en": "Mamants'o",
-          "slug": "mamantso"
+          "name": {
+            "local": "Qibing",
+            "en": "Qibing",
+            "slug": "qibing"
+          },
+          "code": {
+            "id": "LSE07",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE01",
-        "name": {
-          "local": "Metsi-Maholo",
-          "en": "Metsi-Maholo",
-          "slug": "metsi-maholo"
+          "name": {
+            "local": "Mamants'o",
+            "en": "Mamants'o",
+            "slug": "mamantso"
+          },
+          "code": {
+            "id": "LSE02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSE08",
-        "name": {
-          "local": "Mafeteng",
-          "en": "Mafeteng",
-          "slug": "mafeteng"
+          "name": {
+            "local": "Metsi-Maholo",
+            "en": "Metsi-Maholo",
+            "slug": "metsi-maholo"
+          },
+          "code": {
+            "id": "LSE01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSE08",
-          "iso": null
+          "name": {
+            "local": "Mafeteng",
+            "en": "Mafeteng",
+            "slug": "mafeteng"
+          },
+          "code": {
+            "id": "LSE08",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSA",
-    "name": {
-      "local": "Maseru",
-      "en": "Maseru",
-      "slug": "maseru"
+      ]
     },
-    "code": {
+    {
       "id": "LSA",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSA10",
-        "name": {
-          "local": "Makhoalipana",
-          "en": "Makhoalipana",
-          "slug": "makhoalipana"
-        },
-        "code": {
+      "name": {
+        "local": "Maseru",
+        "en": "Maseru",
+        "slug": "maseru"
+      },
+      "code": {
+        "id": "LSA",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSA10",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA09",
-        "name": {
-          "local": "Kubake",
-          "en": "Kubake",
-          "slug": "kubake"
+          "name": {
+            "local": "Makhoalipana",
+            "en": "Makhoalipana",
+            "slug": "makhoalipana"
+          },
+          "code": {
+            "id": "LSA10",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA09",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA08",
-        "name": {
-          "local": "Makhoarane",
-          "en": "Makhoarane",
-          "slug": "makhoarane"
+          "name": {
+            "local": "Kubake",
+            "en": "Kubake",
+            "slug": "kubake"
+          },
+          "code": {
+            "id": "LSA09",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA08",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA04",
-        "name": {
-          "local": "Manonyane",
-          "en": "Manonyane",
-          "slug": "manonyane"
+          "name": {
+            "local": "Makhoarane",
+            "en": "Makhoarane",
+            "slug": "makhoarane"
+          },
+          "code": {
+            "id": "LSA08",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA05",
-        "name": {
-          "local": "Mohlakeng",
-          "en": "Mohlakeng",
-          "slug": "mohlakeng"
+          "name": {
+            "local": "Manonyane",
+            "en": "Manonyane",
+            "slug": "manonyane"
+          },
+          "code": {
+            "id": "LSA04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA06",
-        "name": {
-          "local": "Thota-ea-Moli",
-          "en": "Thota-ea-Moli",
-          "slug": "thota-ea-moli"
+          "name": {
+            "local": "Mohlakeng",
+            "en": "Mohlakeng",
+            "slug": "mohlakeng"
+          },
+          "code": {
+            "id": "LSA05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA06",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA07",
-        "name": {
-          "local": "Lilala",
-          "en": "Lilala",
-          "slug": "lilala"
+          "name": {
+            "local": "Thota-ea-Moli",
+            "en": "Thota-ea-Moli",
+            "slug": "thota-ea-moli"
+          },
+          "code": {
+            "id": "LSA06",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA07",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA01",
-        "name": {
-          "local": "Qiloane",
-          "en": "Qiloane",
-          "slug": "qiloane"
+          "name": {
+            "local": "Lilala",
+            "en": "Lilala",
+            "slug": "lilala"
+          },
+          "code": {
+            "id": "LSA07",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA02",
-        "name": {
-          "local": "Ratau",
-          "en": "Ratau",
-          "slug": "ratau"
+          "name": {
+            "local": "Qiloane",
+            "en": "Qiloane",
+            "slug": "qiloane"
+          },
+          "code": {
+            "id": "LSA01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA03",
-        "name": {
-          "local": "Likolobeng",
-          "en": "Likolobeng",
-          "slug": "likolobeng"
+          "name": {
+            "local": "Ratau",
+            "en": "Ratau",
+            "slug": "ratau"
+          },
+          "code": {
+            "id": "LSA02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA11",
-        "name": {
-          "local": "Semonkong",
-          "en": "Semonkong",
-          "slug": "semonkong"
+          "name": {
+            "local": "Likolobeng",
+            "en": "Likolobeng",
+            "slug": "likolobeng"
+          },
+          "code": {
+            "id": "LSA03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA11",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSA12",
-        "name": {
-          "local": "Maseru (Maseru District)",
-          "en": "Maseru (Maseru District)",
-          "slug": "maseru-maseru-district"
+          "name": {
+            "local": "Semonkong",
+            "en": "Semonkong",
+            "slug": "semonkong"
+          },
+          "code": {
+            "id": "LSA11",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSA12",
-          "iso": null
+          "name": {
+            "local": "Maseru (Maseru District)",
+            "en": "Maseru (Maseru District)",
+            "slug": "maseru-maseru-district"
+          },
+          "code": {
+            "id": "LSA12",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSK",
-    "name": {
-      "local": "Thaba-Tseka",
-      "en": "Thaba-Tseka",
-      "slug": "thaba-tseka"
+      ]
     },
-    "code": {
+    {
       "id": "LSK",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSK03",
-        "name": {
-          "local": "Litsoetse",
-          "en": "Litsoetse",
-          "slug": "litsoetse"
-        },
-        "code": {
+      "name": {
+        "local": "Thaba-Tseka",
+        "en": "Thaba-Tseka",
+        "slug": "thaba-tseka"
+      },
+      "code": {
+        "id": "LSK",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSK03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSK05",
-        "name": {
-          "local": "Linakeng",
-          "en": "Linakeng",
-          "slug": "linakeng"
+          "name": {
+            "local": "Litsoetse",
+            "en": "Litsoetse",
+            "slug": "litsoetse"
+          },
+          "code": {
+            "id": "LSK03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSK05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSK02",
-        "name": {
-          "local": "Khutlo-se-Metsi",
-          "en": "Khutlo-se-Metsi",
-          "slug": "khutlo-se-metsi"
+          "name": {
+            "local": "Linakeng",
+            "en": "Linakeng",
+            "slug": "linakeng"
+          },
+          "code": {
+            "id": "LSK05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSK02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSK04",
-        "name": {
-          "local": "Bokong",
-          "en": "Bokong",
-          "slug": "bokong"
+          "name": {
+            "local": "Khutlo-se-Metsi",
+            "en": "Khutlo-se-Metsi",
+            "slug": "khutlo-se-metsi"
+          },
+          "code": {
+            "id": "LSK02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSK04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSK01",
-        "name": {
-          "local": "Tenesolo",
-          "en": "Tenesolo",
-          "slug": "tenesolo"
+          "name": {
+            "local": "Bokong",
+            "en": "Bokong",
+            "slug": "bokong"
+          },
+          "code": {
+            "id": "LSK04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSK01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSK06",
-        "name": {
-          "local": "Thaba-Tseka",
-          "en": "Thaba-Tseka",
-          "slug": "thaba-tseka"
+          "name": {
+            "local": "Tenesolo",
+            "en": "Tenesolo",
+            "slug": "tenesolo"
+          },
+          "code": {
+            "id": "LSK01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSK06",
-          "iso": null
+          "name": {
+            "local": "Thaba-Tseka",
+            "en": "Thaba-Tseka",
+            "slug": "thaba-tseka"
+          },
+          "code": {
+            "id": "LSK06",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSJ",
-    "name": {
-      "local": "Mokhotlong",
-      "en": "Mokhotlong",
-      "slug": "mokhotlong"
+      ]
     },
-    "code": {
+    {
       "id": "LSJ",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSJ04",
-        "name": {
-          "local": "Menoaneng",
-          "en": "Menoaneng",
-          "slug": "menoaneng"
-        },
-        "code": {
+      "name": {
+        "local": "Mokhotlong",
+        "en": "Mokhotlong",
+        "slug": "mokhotlong"
+      },
+      "code": {
+        "id": "LSJ",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSJ04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSJ03",
-        "name": {
-          "local": "Sanqebethu",
-          "en": "Sanqebethu",
-          "slug": "sanqebethu"
+          "name": {
+            "local": "Menoaneng",
+            "en": "Menoaneng",
+            "slug": "menoaneng"
+          },
+          "code": {
+            "id": "LSJ04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSJ03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSJ02",
-        "name": {
-          "local": "Mphokojoana",
-          "en": "Mphokojoana",
-          "slug": "mphokojoana"
+          "name": {
+            "local": "Sanqebethu",
+            "en": "Sanqebethu",
+            "slug": "sanqebethu"
+          },
+          "code": {
+            "id": "LSJ03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSJ02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSJ01",
-        "name": {
-          "local": "Seate",
-          "en": "Seate",
-          "slug": "seate"
+          "name": {
+            "local": "Mphokojoana",
+            "en": "Mphokojoana",
+            "slug": "mphokojoana"
+          },
+          "code": {
+            "id": "LSJ02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSJ01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSJ05",
-        "name": {
-          "local": "Mokhotlong",
-          "en": "Mokhotlong",
-          "slug": "mokhotlong"
+          "name": {
+            "local": "Seate",
+            "en": "Seate",
+            "slug": "seate"
+          },
+          "code": {
+            "id": "LSJ01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSJ05",
-          "iso": null
+          "name": {
+            "local": "Mokhotlong",
+            "en": "Mokhotlong",
+            "slug": "mokhotlong"
+          },
+          "code": {
+            "id": "LSJ05",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSD",
-    "name": {
-      "local": "Berea",
-      "en": "Berea",
-      "slug": "berea"
+      ]
     },
-    "code": {
+    {
       "id": "LSD",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSD08",
-        "name": {
-          "local": "Kanana",
-          "en": "Kanana",
-          "slug": "kanana"
-        },
-        "code": {
+      "name": {
+        "local": "Berea",
+        "en": "Berea",
+        "slug": "berea"
+      },
+      "code": {
+        "id": "LSD",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSD08",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD04",
-        "name": {
-          "local": "Tebe-Tebe",
-          "en": "Tebe-Tebe",
-          "slug": "tebe-tebe"
+          "name": {
+            "local": "Kanana",
+            "en": "Kanana",
+            "slug": "kanana"
+          },
+          "code": {
+            "id": "LSD08",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD06",
-        "name": {
-          "local": "Motanasela",
-          "en": "Motanasela",
-          "slug": "motanasela"
+          "name": {
+            "local": "Tebe-Tebe",
+            "en": "Tebe-Tebe",
+            "slug": "tebe-tebe"
+          },
+          "code": {
+            "id": "LSD04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD06",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD07",
-        "name": {
-          "local": "Senekane",
-          "en": "Senekane",
-          "slug": "senekane"
+          "name": {
+            "local": "Motanasela",
+            "en": "Motanasela",
+            "slug": "motanasela"
+          },
+          "code": {
+            "id": "LSD06",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD07",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD01",
-        "name": {
-          "local": "Makeoana",
-          "en": "Makeoana",
-          "slug": "makeoana"
+          "name": {
+            "local": "Senekane",
+            "en": "Senekane",
+            "slug": "senekane"
+          },
+          "code": {
+            "id": "LSD07",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD05",
-        "name": {
-          "local": "Phuthiatsana",
-          "en": "Phuthiatsana",
-          "slug": "phuthiatsana"
+          "name": {
+            "local": "Makeoana",
+            "en": "Makeoana",
+            "slug": "makeoana"
+          },
+          "code": {
+            "id": "LSD01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD02",
-        "name": {
-          "local": "Mapoteng",
-          "en": "Mapoteng",
-          "slug": "mapoteng"
+          "name": {
+            "local": "Phuthiatsana",
+            "en": "Phuthiatsana",
+            "slug": "phuthiatsana"
+          },
+          "code": {
+            "id": "LSD05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD03",
-        "name": {
-          "local": "Kueneng",
-          "en": "Kueneng",
-          "slug": "kueneng"
+          "name": {
+            "local": "Mapoteng",
+            "en": "Mapoteng",
+            "slug": "mapoteng"
+          },
+          "code": {
+            "id": "LSD02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD09",
-        "name": {
-          "local": "Maseru (Berea Distict)",
-          "en": "Maseru (Berea Distict)",
-          "slug": "maseru-berea-distict"
+          "name": {
+            "local": "Kueneng",
+            "en": "Kueneng",
+            "slug": "kueneng"
+          },
+          "code": {
+            "id": "LSD03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD09",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSD10",
-        "name": {
-          "local": "Tayateyaneng",
-          "en": "Tayateyaneng",
-          "slug": "tayateyaneng"
+          "name": {
+            "local": "Maseru (Berea Distict)",
+            "en": "Maseru (Berea Distict)",
+            "slug": "maseru-berea-distict"
+          },
+          "code": {
+            "id": "LSD09",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSD10",
-          "iso": null
+          "name": {
+            "local": "Tayateyaneng",
+            "en": "Tayateyaneng",
+            "slug": "tayateyaneng"
+          },
+          "code": {
+            "id": "LSD10",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSC",
-    "name": {
-      "local": "Leribe",
-      "en": "Leribe",
-      "slug": "leribe"
+      ]
     },
-    "code": {
+    {
       "id": "LSC",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSC11",
-        "name": {
-          "local": "Tsuili-Tsuili",
-          "en": "Tsuili-Tsuili",
-          "slug": "tsuili-tsuili"
-        },
-        "code": {
+      "name": {
+        "local": "Leribe",
+        "en": "Leribe",
+        "slug": "leribe"
+      },
+      "code": {
+        "id": "LSC",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSC11",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC02",
-        "name": {
-          "local": "Bolahla",
-          "en": "Bolahla",
-          "slug": "bolahla"
+          "name": {
+            "local": "Tsuili-Tsuili",
+            "en": "Tsuili-Tsuili",
+            "slug": "tsuili-tsuili"
+          },
+          "code": {
+            "id": "LSC11",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC01",
-        "name": {
-          "local": "Matsoku",
-          "en": "Matsoku",
-          "slug": "matsoku"
+          "name": {
+            "local": "Bolahla",
+            "en": "Bolahla",
+            "slug": "bolahla"
+          },
+          "code": {
+            "id": "LSC02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC09",
-        "name": {
-          "local": "Hleoheng",
-          "en": "Hleoheng",
-          "slug": "hleoheng"
+          "name": {
+            "local": "Matsoku",
+            "en": "Matsoku",
+            "slug": "matsoku"
+          },
+          "code": {
+            "id": "LSC01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC09",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC10",
-        "name": {
-          "local": "Manka",
-          "en": "Manka",
-          "slug": "manka"
+          "name": {
+            "local": "Hleoheng",
+            "en": "Hleoheng",
+            "slug": "hleoheng"
+          },
+          "code": {
+            "id": "LSC09",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC10",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC04",
-        "name": {
-          "local": "'Maoa-Mafubelu",
-          "en": "'Maoa-Mafubelu",
-          "slug": "maoa-mafubelu"
+          "name": {
+            "local": "Manka",
+            "en": "Manka",
+            "slug": "manka"
+          },
+          "code": {
+            "id": "LSC10",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC03",
-        "name": {
-          "local": "Ramapepe",
-          "en": "Ramapepe",
-          "slug": "ramapepe"
+          "name": {
+            "local": "'Maoa-Mafubelu",
+            "en": "'Maoa-Mafubelu",
+            "slug": "maoa-mafubelu"
+          },
+          "code": {
+            "id": "LSC04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC08",
-        "name": {
-          "local": "Litjotjela",
-          "en": "Litjotjela",
-          "slug": "litjotjela"
+          "name": {
+            "local": "Ramapepe",
+            "en": "Ramapepe",
+            "slug": "ramapepe"
+          },
+          "code": {
+            "id": "LSC03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC08",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC05",
-        "name": {
-          "local": "Menkhoaneng",
-          "en": "Menkhoaneng",
-          "slug": "menkhoaneng"
+          "name": {
+            "local": "Litjotjela",
+            "en": "Litjotjela",
+            "slug": "litjotjela"
+          },
+          "code": {
+            "id": "LSC08",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC05",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC07",
-        "name": {
-          "local": "Sephokong",
-          "en": "Sephokong",
-          "slug": "sephokong"
+          "name": {
+            "local": "Menkhoaneng",
+            "en": "Menkhoaneng",
+            "slug": "menkhoaneng"
+          },
+          "code": {
+            "id": "LSC05",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC07",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC06",
-        "name": {
-          "local": "Maisa-Phoka",
-          "en": "Maisa-Phoka",
-          "slug": "maisa-phoka"
+          "name": {
+            "local": "Sephokong",
+            "en": "Sephokong",
+            "slug": "sephokong"
+          },
+          "code": {
+            "id": "LSC07",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC06",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC12",
-        "name": {
-          "local": "Maputsoe",
-          "en": "Maputsoe",
-          "slug": "maputsoe"
+          "name": {
+            "local": "Maisa-Phoka",
+            "en": "Maisa-Phoka",
+            "slug": "maisa-phoka"
+          },
+          "code": {
+            "id": "LSC06",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC12",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC13",
-        "name": {
-          "local": "Leribe",
-          "en": "Leribe",
-          "slug": "leribe"
+          "name": {
+            "local": "Maputsoe",
+            "en": "Maputsoe",
+            "slug": "maputsoe"
+          },
+          "code": {
+            "id": "LSC12",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC13",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSC14",
-        "name": {
-          "local": "Butha-Buthe (Leribe District)",
-          "en": "Butha-Buthe (Leribe District)",
-          "slug": "butha-buthe-leribe-district"
+          "name": {
+            "local": "Leribe",
+            "en": "Leribe",
+            "slug": "leribe"
+          },
+          "code": {
+            "id": "LSC13",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSC14",
-          "iso": null
+          "name": {
+            "local": "Butha-Buthe (Leribe District)",
+            "en": "Butha-Buthe (Leribe District)",
+            "slug": "butha-buthe-leribe-district"
+          },
+          "code": {
+            "id": "LSC14",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "LSB",
-    "name": {
-      "local": "Butha-Buthe",
-      "en": "Butha-Buthe",
-      "slug": "butha-buthe"
+      ]
     },
-    "code": {
+    {
       "id": "LSB",
-      "iso": null
-    },
-    "constituency": [
-      {
-        "id": "LSB04",
-        "name": {
-          "local": "Tsa-le-Moleka",
-          "en": "Tsa-le-Moleka",
-          "slug": "tsa-le-moleka"
-        },
-        "code": {
+      "name": {
+        "local": "Butha-Buthe",
+        "en": "Butha-Buthe",
+        "slug": "butha-buthe"
+      },
+      "code": {
+        "id": "LSB",
+        "iso": null
+      },
+      "constituency": [
+        {
           "id": "LSB04",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSB03",
-        "name": {
-          "local": "Nqoe",
-          "en": "Nqoe",
-          "slug": "nqoe"
+          "name": {
+            "local": "Tsa-le-Moleka",
+            "en": "Tsa-le-Moleka",
+            "slug": "tsa-le-moleka"
+          },
+          "code": {
+            "id": "LSB04",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSB03",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSB02",
-        "name": {
-          "local": "Likila",
-          "en": "Likila",
-          "slug": "likila"
+          "name": {
+            "local": "Nqoe",
+            "en": "Nqoe",
+            "slug": "nqoe"
+          },
+          "code": {
+            "id": "LSB03",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSB02",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSB01",
-        "name": {
-          "local": "Ngoajane",
-          "en": "Ngoajane",
-          "slug": "ngoajane"
+          "name": {
+            "local": "Likila",
+            "en": "Likila",
+            "slug": "likila"
+          },
+          "code": {
+            "id": "LSB02",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSB01",
-          "iso": null
-        }
-      },
-      {
-        "id": "LSB05",
-        "name": {
-          "local": "Butha-Buthe (Butha-Buthe District)",
-          "en": "Butha-Buthe (Butha-Buthe District)",
-          "slug": "butha-buthe-butha-buthe-district"
+          "name": {
+            "local": "Ngoajane",
+            "en": "Ngoajane",
+            "slug": "ngoajane"
+          },
+          "code": {
+            "id": "LSB01",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "LSB05",
-          "iso": null
+          "name": {
+            "local": "Butha-Buthe (Butha-Buthe District)",
+            "en": "Butha-Buthe (Butha-Buthe District)",
+            "slug": "butha-buthe-butha-buthe-district"
+          },
+          "code": {
+            "id": "LSB05",
+            "iso": null
+          }
         }
-      }
-    ]
-  }
-]
+      ]
+    }
+  ]
+}

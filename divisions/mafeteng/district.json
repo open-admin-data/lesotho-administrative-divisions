@@ -25,5 +25,9 @@
     "lon": "27.539"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/mafeteng/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

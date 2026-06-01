@@ -25,5 +25,9 @@
     "lon": "29.006"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/mokhotlong/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

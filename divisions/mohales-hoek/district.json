@@ -25,5 +25,9 @@
     "lon": "27.884"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/mohales-hoek/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

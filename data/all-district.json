@@ -26,7 +26,11 @@
       "lon": "27.965"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/quthing/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSF",
@@ -55,7 +59,11 @@
       "lon": "27.884"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/mohales-hoek/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSH",
@@ -84,7 +92,11 @@
       "lon": "28.698"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/qachas-nek/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSE",
@@ -113,7 +125,11 @@
       "lon": "27.539"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/mafeteng/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSA",
@@ -142,7 +158,11 @@
       "lon": "27.805"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/maseru/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSK",
@@ -171,7 +191,11 @@
       "lon": "28.709"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/thaba-tseka/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSJ",
@@ -200,7 +224,11 @@
       "lon": "29.006"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/mokhotlong/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSD",
@@ -229,7 +257,11 @@
       "lon": "27.903"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/berea/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSC",
@@ -258,7 +290,11 @@
       "lon": "28.216"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/leribe/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   },
   {
     "id": "LSB",
@@ -287,6 +323,10 @@
       "lon": "28.52"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ls/districts/butha-buthe/",
+      "api": "https://openadmindata.org/api/ls/"
+    }
   }
 ]

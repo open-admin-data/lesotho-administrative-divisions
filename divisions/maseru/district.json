@@ -25,5 +25,9 @@
     "lon": "27.805"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/maseru/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "28.52"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/butha-buthe/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

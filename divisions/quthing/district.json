@@ -25,5 +25,9 @@
     "lon": "27.965"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/quthing/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }

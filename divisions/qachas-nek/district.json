@@ -25,5 +25,9 @@
     "lon": "28.698"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ls/districts/qachas-nek/",
+    "api": "https://openadmindata.org/api/ls/"
+  }
 }
