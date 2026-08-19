@@ -3,7 +3,7 @@
 > 5 constituencys
 > Code: LSB
 > Coordinates: -28.828, 28.52
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Constituencys
 
