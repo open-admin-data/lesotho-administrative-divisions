@@ -3,7 +3,7 @@
 > 12 constituencys
 > Code: LSA
 > Coordinates: -29.623, 27.805
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Constituencys
 

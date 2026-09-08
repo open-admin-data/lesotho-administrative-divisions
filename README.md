@@ -11,11 +11,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/ls](https://openadmindata.org/ls/) |
 | API | [openadmindata.org/api/ls](https://openadmindata.org/api/ls/) |
 | Flag | [PNG](https://onlygames.me/flags-png/ls/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Lesotho National Anthem MP3](https://onlygames.me/national-anthems/ls/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/lso) · [Population](https://nationdata.org/population/country/lso) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by District
 
